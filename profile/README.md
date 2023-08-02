@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We design physical products for the digital age. By combining our expertise in data, digital, and physical product design, we help our clients to reimagine their products and create exceptional customer experiences that drive growth and competitiveness. Our multidisciplinary approach is humancentric, and sustainability embedded to ensure that every aspect of the product is carefully considered, from its design and engineering to its sourcing, manufacturing, and servicing.
+Design can play a critical role in addressing the pressing sustainability and inclusivity challenges we face today, and the fusion of physical and digital design can be a powerful tool in this effort.
